@@ -1,0 +1,10 @@
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\box.png
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\box_in_scene.png
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\Example.FeatureMatching.exe.config
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\Example.FeatureMatching.exe
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\Example.FeatureMatching.pdb
+C:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\FeatureMatching\obj\Debug\FeatureMatching.csproj.CoreCompileInputs.cache
+C:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\FeatureMatching\obj\Debug\FeatureMatching.csproj.CopyComplete
+C:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\FeatureMatching\obj\Debug\Example.FeatureMatching.exe
+C:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\FeatureMatching\obj\Debug\Example.FeatureMatching.pdb
+C:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\FeatureMatching\obj\Debug\FeatureMatching.csprojAssemblyReference.cache
